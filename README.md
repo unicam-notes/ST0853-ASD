@@ -1,4 +1,4 @@
-# ST0830-ASD
+# ST0853-ASD
 
 Algoritmi e Strutture Dati.
 
@@ -9,5 +9,5 @@ A.A. 2026/2027
 **Tutor:** Marco Caputo <br>
 
 ## Modulo II: Laboratorio
-**Professore:** Luca Tesei
+**Professore:** Luca Tesei <br>
 **Tutor:** Federico Di Petta
